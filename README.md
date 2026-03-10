@@ -2,7 +2,7 @@
 
 🚀 **Un visualiseur 3D isométrique** développé en C, utilisant la MiniLibX.
 
-Ce projet est célèbre à l'école 42. Le but est de créer un programme qui prend un fichier contenant une carte de points d'altitudes (en 2D) et de la représenter en 3D sous forme de paysages filaires.
+Le but est de créer un programme qui prend un fichier contenant une carte de points d'altitudes (en 2D) et de la représenter en 3D sous forme de paysages filaires.
 
 ---
 
